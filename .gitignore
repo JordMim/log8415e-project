@@ -1,0 +1,4 @@
+projectVenv/
+__pycache__/
+.vscode/
+lib64
